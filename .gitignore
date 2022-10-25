@@ -2,6 +2,9 @@
 lightning_logs/
 car_64/
 
+.DS_Store
+*.jpeg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
